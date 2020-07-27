@@ -2,6 +2,9 @@
 # Jogo-bruxa
 Projeto da semana #imersaoGameDev realizado pela Alura.  
 
+## Link da aplicação na web
+[Jogar as aventuras de Hipsta](https://jogo-bruxa.vercel.app/)
+
 ## :computer: Tecnologias  
 
 - HTML5  
