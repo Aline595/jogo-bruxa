@@ -18,6 +18,8 @@ Projeto da semana #imersaoGameDev realizado pela Alura.
 # Clone o repositório  
 $ git clone https://github.com/Aline595/jogo-bruxa.git
 
+# Adicione o arquivo p5.js
+
 # Abra o arquivo index
 index.html
 ```
